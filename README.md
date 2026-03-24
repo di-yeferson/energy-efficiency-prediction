@@ -1,6 +1,7 @@
-# Modelo Predictivo para la Clasificación de la Eficiencia Energética en Edificios
+# Eficiencia Energética en Edificios
 
-Proyecto de **Ciencia de Datos y Machine Learning** orientado a la predicción y clasificación de la eficiencia energética de edificaciones residenciales, utilizando variables arquitectónicas y físicas del conjunto de datos *Energy Efficiency Dataset* (UCI Machine Learning Repository).
+Proyecto de Ciencia de Datos para clasificar la eficiencia energética de edificios residenciales usando 
+sus características arquitectónicas y físicas, basado en el Energy Efficiency Dataset (UCI).
 
 ---
 
