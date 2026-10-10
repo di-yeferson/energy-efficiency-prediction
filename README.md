@@ -68,6 +68,4 @@ Python · Pandas · NumPy · Scikit-learn · Statsmodels · Matplotlib · Seabor
 2. Instala las dependencias con `pip install -r requirements.txt`.
 3. El notebook descarga el dataset desde UCI automáticamente. También puedes poner `ENB2012_data.xlsx` junto al notebook.
 
----
-**Diego Yeferson Quispe Huamani** · Estudiante de Big Data y Ciencia de Datos – Tecsup
-[LinkedIn](https://www.linkedin.com/in/di-yeferson) · [GitHub](https://github.com/di-yeferson)
+
